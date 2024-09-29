@@ -2,8 +2,8 @@ package myfirst_git_project;
 
 public class MyGitClass {
     public static void main(String[] args) {
-        System.out.println("version1");
-
+     int x =5;
+     int y =6;
         /*
 HOW WE CAN PUSH A GIT PROJECT TO GITHUB?- FOR THE FIRST TIME
 Notes:
